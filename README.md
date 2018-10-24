@@ -2,6 +2,9 @@
 
 How to reproduce:
 
+Install minpac:
+https://github.com/k-takata/minpac#linux-macos
+
 - Vim/MacVim:
   - `vim -u ./vimrc`
 - Neovim
