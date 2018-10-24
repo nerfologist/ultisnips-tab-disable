@@ -5,6 +5,7 @@ How to reproduce:
 Install minpac:
 https://github.com/k-takata/minpac#linux-macos
 
+Run the editor (Vim/MacVim/Neovim) with the custom config file:
 - Vim/MacVim:
   - `vim -u ./vimrc`
 - Neovim
